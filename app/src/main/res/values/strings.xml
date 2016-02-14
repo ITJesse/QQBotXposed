@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QQBot</string>
+    <string name="xposeddescription">A QQ bot based on xposed.</string>
+</resources>
